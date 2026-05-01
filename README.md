@@ -34,7 +34,7 @@ Daily Notes App adalah aplikasi pencatatan sederhana berbasis React Native mengg
 > ⚠️ Wajib: Tambahkan screenshot hasil running di HP fisik menggunakan Expo Go
 
 Contoh:
-![Screenshot App](./assets/screenshot.jpg)
+![Screenshot App](./assets/foto.png)
 
 *(Ganti file gambar sesuai screenshot kamu sendiri)*
 
