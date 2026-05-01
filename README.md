@@ -31,7 +31,7 @@ Daily Notes App adalah aplikasi pencatatan sederhana berbasis React Native mengg
 
 ## 📸 Screenshot Aplikasi
 
-### 1. Tampilan Awal (Empty State)
+### 1. Tampilan Awal (Empty State) + Filter view: Semua / Aktif / Selesai.
 Menampilkan kondisi saat belum ada catatan.
 ![Screenshot App](./assets/foto.png)
 ### 2. Input Catatan 
